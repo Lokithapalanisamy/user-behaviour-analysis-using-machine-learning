@@ -1,0 +1,11 @@
+secure_login_project/
+│
+├── app.py
+├── users.db
+├── templates/
+│   ├── register.html
+│   ├── login.html
+│   ├── dashboard.html
+├── static/
+│   ├── style.css
+├── requirements.txt

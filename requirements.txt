@@ -1,0 +1,6 @@
+Flask
+Werkzeug
+pytz
+requests
+user-agents
+matplotlib
